@@ -62,19 +62,24 @@ footer {
   header {
     background-color: #6FAB8A;
   }
-
-  #column-1 {
+  column-1 {
     background-color:#021C13 ;
-  }
+   }
 
   #column-2 {
     background-color:#05402C;
+    
   }
+  
 
   #column-3 {
     background-color: #0FB87E;
+     width: 100%;
   }
-
+  .col-3{
+    width: 50%;
+  }
+  ]
   footer {
     background-color: #6FAB8A ;
   }
@@ -87,19 +92,23 @@ footer {
   header {
     background-color:#E89D41 ;
   }
-
+  
   #column-1 {
     background-color:#593C19;
+   
   }
 
   #column-2 {
     background-color:#825824 ;
-  }
+     }
 
   #column-3 {
     background-color:#B57A33 ;
+    width: 33.33%;
   }
-
+  .col-3{
+        width: 33.33%;
+  }
   footer {
     background-color:#E89D41 ;
   }
